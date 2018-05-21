@@ -1,6 +1,3 @@
-# tutorial
- 
-
 # FuckBot V1
 Mastah Of Kicker :v
 
